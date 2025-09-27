@@ -94,11 +94,11 @@ https://miro.com/app/board/uXjVJFwdTbE=/
 
 Совместимость: работа в современных браузерах и на мобильных устройствах.
 
-![Это описание картинки](Aspose.Words.45e9c322-ace8-417d-8820-d040cce61fd1.001.png)
+![Это описание картинки](./docs/images/use-case-diagram.png)
 
 **Use Case Diagram (Диаграмма прецедентов)**
 
-2
+
 
 
 
